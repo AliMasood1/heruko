@@ -55,7 +55,7 @@ python-dateutil==1.5
 pytz==2018.5
 PyWavelets==1.0.1
 pywin32==223
-PyYAML==3.13
+PyYAML==5.4
 requests==2.20.1
 requests-toolbelt==0.8.0
 ruamel-yaml==0.15.46
